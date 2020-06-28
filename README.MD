@@ -2,6 +2,10 @@
 
 ## How to use ?
 
+```bash
+npm install sass-sourcemap-loader --dev
+```
+
 Add `sass-sourcemap-loader` in `webpack.config.js`
 
 ```js
